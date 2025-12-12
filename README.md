@@ -50,15 +50,6 @@ O instala las librerías principales:
 - Ejecuta los scripts de ejemplo (si los hay) desde la línea de comandos:
   python ejemplos/mi_ejemplo.py
 
-## Estructura 
-- notebooks/              -> Notebooks del curso (Jupyter)
-- src/                    -> Código fuente y utilidades
-- data/                   -> Datasets y archivos de ejemplo (si aplica, o enlazar descargas)
-- ejemplos/               -> Scripts de ejemplo para ejecución directa
-- docs/                   -> Material adicional, apuntes o presentaciones
-- requirements.txt        -> Dependencias del proyecto
-- README.md               -> Este archivo
-
 
 ## Créditos
 Material del curso impartido por:
